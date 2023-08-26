@@ -34,3 +34,12 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 - More than 40 classes.
 - More than 50,000 images in total.
 - Large, lifelike database.
+
+
+<h2>Usage</h2>
+
+- Open CMD in working directory.
+- Run `Traffic_classifier.py`
+- Go to the website `http://127.0.0.1:5000/` and test it.
+
+<h2>Screenshots</h2>
