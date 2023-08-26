@@ -1,4 +1,4 @@
 # TRAFFIC SIGN CLASSIFIER🚦
 
 <h2>Introduction</h2>
-A convolutional neural network for German traffic sign image classification.
+Traffic sign classification is a crucial task for autonomous driving.
