@@ -47,4 +47,5 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 ![image](https://github.com/Pramit2021/Traffic_Sign_Classification/assets/93142399/670156b3-708b-4a76-aecb-557cd5232ca5)
 ![image](https://github.com/Pramit2021/Traffic_Sign_Classification/assets/93142399/07432654-54db-4940-aa2f-5f42b76fb94f)
 
-
+<h2>Conclusion</h2>
+Traffic sign classification is a critical component ofautonomous driving. With the help of CNNs and largedatasets, we have made significant progress in this field. However, there are still challenges to overcome. Future research should focus on improving the robustness of classifiers and addressing the limitations of current approaches.
