@@ -43,3 +43,8 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 - Go to the website `http://127.0.0.1:5000/` and test it.
 
 <h2>Screenshots</h2>
+
+![image](https://github.com/Pramit2021/Traffic_Sign_Classification/assets/93142399/670156b3-708b-4a76-aecb-557cd5232ca5)
+![image](https://github.com/Pramit2021/Traffic_Sign_Classification/assets/93142399/07432654-54db-4940-aa2f-5f42b76fb94f)
+
+
