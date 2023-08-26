@@ -1,0 +1,1 @@
+{"name":"Local: traffic_sign","url":"c:\\Users\\prami\\OneDrive\\Desktop\\Traffic_Sign_Classification\\traffic_sign.py","tests":[{"id":1691683610367,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\prami\\OneDrive\\Desktop\\Traffic_Sign_Classification\\traffic_sign.py","group":"local","local":true}
